@@ -1,0 +1,12 @@
+
+.mainFxmlClass {
+    
+ -fx-background-color:darkslategrey;
+ 
+    }
+
+    Button {
+        -fx-background-color:white;
+    }
+    
+
